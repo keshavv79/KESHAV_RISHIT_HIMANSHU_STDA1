@@ -15,17 +15,28 @@ This repository contains the assignments and project reports for the Spatio-Temp
 KESHAV_RISHIT_HIMANSHU_STDA1/
 │
 ├── A1/
-│   ├── EDA_1.ipynb            # Data preprocessing, EDA, and spatial modeling code
-│   └── IMT2022560_564_584_A1 (2).pdf # Spatial Autocorrelation and Regression Analysis Report
+│   ├── EDA_1.ipynb
+│   │   # Data preprocessing, EDA, and spatial modeling code
+│   │
+│   └── IMT2022560_564_584_A1 (2).pdf
+│       # Spatial Autocorrelation and Regression Analysis Report
 │
 ├── A2/
-│   ├── EDA2.ipynb             # Time-series decomposition, ACF/PACF, and ARIMA forecasting code
-│   └── imt2022560_564_584_a2 (2).pdf # Temporal Analysis and Short-Term Forecasting Report
+│   ├── EDA2.ipynb
+│   │   # Time-series decomposition, ACF/PACF, and ARIMA forecasting code
+│   │
+│   └── imt2022560_564_584_a2 (2).pdf
+│       # Temporal Analysis and Short-Term Forecasting Report
 │
 └── A3/
-    ├── london_clean.ipynb     # Spatio-temporal analysis and modeling for London bike-share
-    ├── taipei.ipynb           # Temporal analysis and modeling for Taipei bike-share
-    └── IMT2022560_564_584_A3.pdf # Bike-Sharing Systems Spatio-Temporal Analysis Report
+    ├── london_clean.ipynb
+    │   # Spatio-temporal analysis and modeling for London bike-share
+    │
+    ├── taipei.ipynb
+    │   # Temporal analysis and modeling for Taipei bike-share
+    │
+    └── IMT2022560_564_584_A3.pdf
+        # Bike-Sharing Systems Spatio-Temporal Analysis Report
 
 
 ---
