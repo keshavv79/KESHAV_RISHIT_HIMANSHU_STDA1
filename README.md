@@ -11,7 +11,7 @@ This repository contains the assignments and project reports for the Spatio-Temp
 
 ## 📁 Repository Structure
 
-\`\`\`text
+
 KESHAV_RISHIT_HIMANSHU_STDA1/
 │
 ├── A1/
@@ -26,7 +26,7 @@ KESHAV_RISHIT_HIMANSHU_STDA1/
     ├── london_clean.ipynb     # Spatio-temporal analysis and modeling for London bike-share
     ├── taipei.ipynb           # Temporal analysis and modeling for Taipei bike-share
     └── IMT2022560_564_584_A3.pdf # Bike-Sharing Systems Spatio-Temporal Analysis Report
-\`\`\`
+
 
 ---
 
